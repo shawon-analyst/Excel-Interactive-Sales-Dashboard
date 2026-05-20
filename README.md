@@ -1,6 +1,5 @@
+![Dashboard](Dashboard.png)
 # 📊 Dynamic Sales Dashboard
-
-https://github.com/shawon-analyst/Excel-Interactive-Sales-Dashboard/blob/main/Dashboard.mp4
 
 A highly interactive, professional, and dark-themed business intelligence dashboard built entirely in **Microsoft Excel**. This project transforms raw corporate sales data into actionable, real-time insights using advanced data modeling, dynamic array formulas, and modern UI/UX design principles.
 
