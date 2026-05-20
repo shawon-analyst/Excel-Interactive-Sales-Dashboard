@@ -1,4 +1,8 @@
-# 📊 Premium Dark-Themed Dynamic Sales Dashboard
+# 📊 Dynamic Sales Dashboard
+
+<p align="center">
+  <video src="Dashboard.mp4" width="100%" autoplay loop muted controls></video>
+</p>
 
 A highly interactive, professional, and dark-themed business intelligence dashboard built entirely in **Microsoft Excel**. This project transforms raw corporate sales data into actionable, real-time insights using advanced data modeling, dynamic array formulas, and modern UI/UX design principles.
 
